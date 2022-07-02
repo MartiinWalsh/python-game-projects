@@ -2,6 +2,10 @@
 
 A digital version of a coffee machine. Including multiple drink options, reporting, and money processing. With transaction and resources checks.
 
+## Learning Objective
+
+Object Oriented Programming with Python.
+
 ## Coffee Machine Program Requirements
 
 1. Prompt user by asking “What would you like? (espresso/latte/cappuccino/):”
