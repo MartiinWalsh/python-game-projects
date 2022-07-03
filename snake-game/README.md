@@ -2,7 +2,7 @@
 
 Recreating Snake with Python...
 
-The steps involved are as follows;
+The steps involved;
 
 - Creating the snake body
 - Controlling the snake
