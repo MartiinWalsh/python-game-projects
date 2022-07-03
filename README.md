@@ -7,7 +7,7 @@ Working with CSV files and analysing data with Pandas.
 
 ## Screenshot
 
-<img alt="Counties Game Screenshot" width="90%" src="./ireland-county-game/counties_game_screenshot.png" />
+<img alt="Counties Game Screenshot" width="80%" src="./ireland-county-game/counties_game_screenshot.png" />
 
 ## coffee-machine
 
