@@ -18,9 +18,9 @@ Object Oriented Programming with Python.
 3. Print report.
    1. When the user enters “report” to the prompt, a report should be generated that shows the
       current resource values. e.g.
-      > Water: 100ml  
-      > Milk: 50ml  
-      > Coffee: 76g  
+      > Water: 100ml
+      > Milk: 50ml
+      > Coffee: 76g
       > Money: $2.5
 4. Check resources sufficient?
    1. When the user chooses a drink, the program should check if there are enough resources
@@ -53,15 +53,15 @@ Object Oriented Programming with Python.
       selected, then the ingredients to make the drink should be deducted from the coffee
       machine resources.
       E.g. report before purchasing latte:
-      > Water: 300ml  
-      > Milk: 200ml  
-      > Coffee: 100g  
+      > Water: 300ml
+      > Milk: 200ml
+      > Coffee: 100g
       > Money: $0
 
-   > Report after purchasing latte:  
-   > Water: 100ml  
-   > Milk: 50ml  
-   > Coffee: 76g  
-   > Money: $2.5  
+   > Report after purchasing latte:
+   > Water: 100ml
+   > Milk: 50ml
+   > Coffee: 76g
+   > Money: $2.5
    > 2. Once all resources have been deducted, tell the user “Here is your latte. Enjoy!”. If latte
    > was their choice of drink.

@@ -1,4 +1,4 @@
-from menu import Menu, MenuItem
+from menu import Menu
 from coffee_maker import CoffeeMaker
 from money_machine import MoneyMachine
 
@@ -18,5 +18,7 @@ while coffee_machine_is_on:
         money_machine.report()
     else:
         drink = menu.find_drink(user_choice)
-        if coffee_machine.is_resource_sufficient(drink) and money_machine.make_payment(drink.cost):
+        if coffee_machine.is_resource_sufficient(drink) and money_machine.make_payment(
+            drink.cost
+        ):
             coffee_machine.make_coffee(drink)

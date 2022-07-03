@@ -1,10 +1,8 @@
-from email.mime import image
-from turtle import *
 import turtle
 import pandas
 
 screen = turtle.Screen()
-screen.title(f"Ireland Counties Game")
+screen.title("Ireland Counties Game")
 image = "Island_of_Ireland_blank_map.gif"
 turtle.screensize(canvwidth=800, canvheight=600, bg="#99CCCC")
 screen.addshape(image)
@@ -38,4 +36,3 @@ while len(guessed_counties) < 32:
         t.penup()
         t.goto(int(county_data.x), int(county_data.y))
         t.write(answer_county, font=("Arial", 12, "bold"))
-
