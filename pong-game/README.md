@@ -1,4 +1,4 @@
-# pong-game
+# pong-game 🏓
 
 Recreating Pong with Python.
 

@@ -1,7 +1,3 @@
-# pong-game
-
-Coming soon!
-
 # snake-game 🐍
 
 Recreated Snake with Python... Get it?
@@ -19,11 +15,11 @@ Working with CSV files and analysing data with Pandas.
 
 <img alt="Counties Game Screenshot" width="80%" src="./ireland-county-game/counties_game_screenshot.png" /> .
 
-# pong-game
+# pong-game 🏓
 
 Recreating Pong with Python.
 
-## Screenshot
+## Screenshot ☕️
 
 <img alt="Pong Game Screenshot" width="90%" src="./pong-game/pong_game_screenshot.png" /> .
 
