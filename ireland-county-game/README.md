@@ -1,4 +1,4 @@
-# ireland-county-game
+# ireland-county-game 🇮🇪
 
 Educational game that requires you to guess and learn all of the counties in Ireland.
 

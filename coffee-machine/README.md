@@ -1,4 +1,4 @@
-# coffee-machine
+# coffee-machine ☕️
 
 A digital version of a coffee machine. Including multiple drink options, reporting, and money processing. With transaction and resources checks.
 
@@ -62,6 +62,5 @@ Object Oriented Programming with Python.
    > Water: 100ml
    > Milk: 50ml
    > Coffee: 76g
-   > Money: $2.5
-   > 2. Once all resources have been deducted, tell the user “Here is your latte. Enjoy!”. If latte
+   > Money: $2.5 2. Once all resources have been deducted, tell the user “Here is your latte. Enjoy!”. If latte
    > was their choice of drink.

@@ -1,5 +1,7 @@
 # pong-game
 
+Recreating Pong with Python.
+
 The steps involved;
 
 - Create the screen
