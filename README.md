@@ -4,7 +4,7 @@ Recreated Snake with Python... Get it?
 
 ## Screenshot
 
-<img alt="Snake Game Screenshot" width="80%" src="./snake-game/snake_game_screenshot.png" /> .
+<img alt="Snake Game Screenshot" width="80%" src="./snake-game/snake_game_screenshot.png" /><br>
 
 # ireland-county-game 🇮🇪
 
@@ -13,7 +13,15 @@ Working with CSV files and analysing data with Pandas.
 
 ### Screenshot
 
-<img alt="Counties Game Screenshot" width="80%" src="./ireland-county-game/counties_game_screenshot.png" /> .
+<img alt="Counties Game Screenshot" width="80%" src="./ireland-county-game/counties_game_screenshot.png" /><br>
+
+# turtle-crossing-game 🐢
+
+Recreating Turtle Crossing with Python!
+
+## Screenshot
+
+<img alt="Snake Game Screenshot" width="90%" src="turtle-crossing-game/turtle_crossing_game_screenshot.png" /><br>
 
 # pong-game 🏓
 
@@ -21,7 +29,7 @@ Recreating Pong with Python.
 
 ## Screenshot ☕️
 
-<img alt="Pong Game Screenshot" width="90%" src="./pong-game/pong_game_screenshot.png" /> .
+<img alt="Pong Game Screenshot" width="90%" src="./pong-game/pong_game_screenshot.png" /><br>
 
 # coffee-machine ☕️
 
