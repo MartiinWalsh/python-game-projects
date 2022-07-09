@@ -1,6 +1,7 @@
 # snake-game 🐍
 
-Recreated Snake with Python... Get it?
+Recreated Snake with Python... Get it?  
+- [The Project Folder](snake-game)
 
 ## Screenshot
 
@@ -9,7 +10,8 @@ Recreated Snake with Python... Get it?
 # ireland-county-game 🇮🇪
 
 Educational game that requires you to guess and learn all of the counties in Ireland.
-Working with CSV files and analysing data with Pandas.
+Working with CSV files and analysing data with Pandas. 
+- [The Project Folder](ireland-county-game)
 
 ### Screenshot
 
@@ -17,7 +19,8 @@ Working with CSV files and analysing data with Pandas.
 
 # turtle-crossing-game 🐢
 
-Recreating Turtle Crossing with Python!
+Recreating Turtle Crossing with Python!  
+- [The Project Folder](turtle-crossing-game)
 
 ## Screenshot
 
@@ -25,7 +28,8 @@ Recreating Turtle Crossing with Python!
 
 # pong-game 🏓
 
-Recreating Pong with Python.
+Recreating Pong with Python!  
+- [The Project Folder](pong-game)
 
 ## Screenshot ☕️
 
@@ -33,4 +37,5 @@ Recreating Pong with Python.
 
 # coffee-machine ☕️
 
-A digital version of a coffee machine using Object Oriented Programming. Including multiple drink options, reporting, and money processing. With transaction and resources checks.
+A digital version of a coffee machine using Object Oriented Programming. Including multiple drink options, reporting, and money processing. With transaction and resources checks.  
+- [The Project Folder](coffee-machine)
