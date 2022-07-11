@@ -20,10 +20,9 @@ while len(guessed_counties) < 32:
     ).title()
 
     if answer_county == "Exit":
-        for county in all_counties:
-            if county not in guessed_counties:
-                missing_counties.append(county)
-
+        missing_counties = [
+            county for county in all_counties if county not in guessed_counties
+        ]
         new_data = pandas.DataFrame(missing_counties)
         new_data.to_csv("Counties_to_learn.csv")
         break
